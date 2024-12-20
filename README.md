@@ -17,8 +17,8 @@
 
 ## Features
 
-- **Home Page**: A welcoming homepage introducing the travel services.
-- **Adventure Ideas**: A section with information on different adventure activities like Skydiving, Ziplining, and Scuba Diving.
+- **Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
+- **About Us**: A section that shares the story behind the brand and its commitment to delivering delicious food.
 - **Travel Packages**: Offers popular travel packages to destinations like Manali, Goa, Delhi, Jaipur, Kerala, and Darjeeling.
 - **Contact Form**: A contact form where users can enter their details (name, email, phone, subject, and message) to get in touch with the service provider.
 - **Responsive Design**: The website adjusts to different screen sizes for mobile and desktop views.
