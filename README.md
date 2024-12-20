@@ -4,10 +4,10 @@ A beautifully designed and responsive food website built using HTML and CSS. Thi
 # HomePage
 <img src="https://i.postimg.cc/C55YgrgH/Screenshot-2024-11-13-112513.png" style="max-width: 100%; height: auto;" />
 
-# Adventure Idea
+# About Us
 <img src="https://i.postimg.cc/sxQ8mkz8/Screenshot-2024-11-13-113846.png" style="max-width: 100%; height: auto;" /> 
 
-# Popular Packages
+# Popular Menu
 <img src="https://i.postimg.cc/QtnwpX21/Screenshot-2024-11-13-113922.png" style="max-width: 100%; height: auto;" />
 
 # Contact Us
