@@ -2,13 +2,16 @@
 
 A beautifully designed and responsive food website built using HTML and CSS. This project showcases a menu, recipes, and contact information for a food delivery or restaurant business.
 # HomePage
-<img src="https://i.postimg.cc/QMLwSM0B/Screenshot-2024-12-20-101408.png"style="max-width: 100%; height: auto;" />
+<img src="https://i.postimg.cc/C55YgrgH/Screenshot-2024-11-13-112513.png" style="max-width: 100%; height: auto;" />
 
+# Adventure Idea
+<img src="https://i.postimg.cc/sxQ8mkz8/Screenshot-2024-11-13-113846.png" style="max-width: 100%; height: auto;" /> 
 
+# Popular Packages
+<img src="https://i.postimg.cc/QtnwpX21/Screenshot-2024-11-13-113922.png" style="max-width: 100%; height: auto;" />
 
-
-
-
+# Contact Us
+<img src="https://i.postimg.cc/ncmgDf09/Screenshot-2024-11-13-105556.png" style="max-width: 100%; height: auto;" />
 ## Features
 
 - **Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
