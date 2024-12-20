@@ -19,10 +19,9 @@
 
 - **Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
 - **About Us**: A section that shares the story behind the brand and its commitment to delivering delicious food.
-- **Travel Packages**: Offers popular travel packages to destinations like Manali, Goa, Delhi, Jaipur, Kerala, and Darjeeling.
-- **Contact Form**: A contact form where users can enter their details (name, email, phone, subject, and message) to get in touch with the service provider.
-- **Responsive Design**: The website adjusts to different screen sizes for mobile and desktop views.
-
+- **Popular Menu**: Showcases customer-favorite dishes with mouthwatering images and descriptions.
+- **Contact Us**: A contact section where users can find the phone number and email address to get in touch for queries or reservations.
+- **Responsive Design**: The website adjusts to different screen sizes for mobile, tablet, and desktop users, ensuring a seamless experience across all devices.
 
 ## Technologies Used
 
