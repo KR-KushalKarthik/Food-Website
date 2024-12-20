@@ -11,7 +11,7 @@ A beautifully designed and responsive food website built using HTML and CSS. Thi
 <img src="https://i.postimg.cc/ZRNrHTsq/Screenshot-2024-12-20-103303.png" style="max-width: 100%; height: auto;" />
 
 # Contact Us
-<img src="https://i.postimg.cc/vZjgNJVx/Screenshot-2024-12-20-103509.png style="max-width: 100%; height: auto;" />
+<img src="https://i.postimg.cc/vZjgNJVx/Screenshot-2024-12-20-103509.png" style="max-width: 100%; height: auto;" />
 ## Features
 
 - **Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
