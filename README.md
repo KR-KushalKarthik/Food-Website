@@ -1,7 +1,8 @@
 # Food Website 🍔🍕🍜
 
 A beautifully designed and responsive food website built using HTML and CSS. This project showcases a menu, recipes, and contact information for a food delivery or restaurant business.
-
+# HomePage
+<img src="https://i.postimg.cc/QMLwSM0B/Screenshot-2024-12-20-101408.png"
 
 
 
