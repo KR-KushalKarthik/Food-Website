@@ -16,10 +16,10 @@
 
 
 ## Features
-**Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
-**About Us**: A section that shares the story behind the brand and its commitment to delivering delicious food.
-**Popular Menu**: Showcases customer-favorite dishes with mouthwatering images and descriptions.
-**Services Section**: Highlights services such as dine-in, takeaway, and fast delivery options.
+-**Home Page**: A welcoming homepage introducing the food services and enticing customers with a clean, appetizing layout.
+-**About Us**: A section that shares the story behind the brand and its commitment to delivering delicious food.
+-**Popular Menu**: Showcases customer-favorite dishes with mouthwatering images and descriptions.
+-**Services Section**: Highlights services such as dine-in, takeaway, and fast delivery options.
 **Contact Us**: A contact section where users can find the phone number and email address to get in touch for queries or reservations.
 Scroll-to-Top Button: Provides a convenient way to scroll back to the top of the page easily.
 Responsive Design: The website adjusts to different screen sizes for mobile, tablet, and desktop users, ensuring a seamless experience across all devices.
